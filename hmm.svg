@@ -1,0 +1,14 @@
+<svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+    <path
+        fill="none"
+        stroke="white"
+        stroke-width="2"
+        d="M0,100 C100,100 30,50 50,30" />
+
+    <circle r="5" fill="#33FF22">
+        <animateMotion
+        dur="10s"
+        repeatCount="indefinite"
+        path="M20,100 C100,100 50,30 30,50 C0,100 10,90 20,100" />
+    </circle>
+</svg>
